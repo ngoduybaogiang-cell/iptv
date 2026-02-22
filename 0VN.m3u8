@@ -147,12 +147,12 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.209:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.105:5000
 #EXTINF:0 tvg-id="vtv5hdtn"  group-title="" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.106:5000
+#EXTINF:0 tvg-id="vtvcantho"  group-title="" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD TV360
+http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.21:5000
 #EXTINF:0 tvg-id="vtv7hd"  group-title="" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.22:5000
 #EXTINF:0 tvg-id="vtv8hd"  group-title="" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.50:5000
-#EXTINF:0 tvg-id="vtvcantho"  group-title="" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD TV360
-http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.21:5000
 #EXTINF:0 tvg-id="antvhd"  group-title="" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.104:5000
 #EXTINF:0 tvg-id="qpvnhd"  group-title="" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD TV360
