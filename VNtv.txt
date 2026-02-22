@@ -71,34 +71,6 @@ https://url.ufc-nf.xyz/OnFootball
 https://url.ufc-nf.xyz/Onsportsnew
 #EXTINF:0 tvg-id="vtvcab3hd"  group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
 https://url.ufc-nf.xyz/Onsports
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="" tvg-name="Canal+ Sport FHD" tvg-id="CANAL+.fr", Bóng Đá Canal + Sport
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=599983&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="" tvg-name="" tvg-id="CANAL+FOOT.fr", Bóng Đá Canal + Foot
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=394814&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 1 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170885&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 2 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170884&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 3 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170883&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 4 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170882&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 5 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170881&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 6 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170880&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 7 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170879&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 8 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 9 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 10 FHD
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
-#EXTINF:0 tvg-id="spotv1"  group-title="" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV MyTV
-https://url.ufc-nf.xyz/SPOTV1
-#EXTINF:0 tvg-id="spotv2"  group-title="" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 MyTV
-https://url.ufc-nf.xyz/SPOTV2
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí FPT
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt FPT
@@ -185,6 +157,36 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD FPT
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="" tvg-name="Canal+ Sport FHD" tvg-id="CANAL+.fr", Bóng Đá Canal + Sport
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=599983&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="" tvg-name="" tvg-id="CANAL+FOOT.fr", Bóng Đá Canal + Foot
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=394814&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 1 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170885&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 2 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170884&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 3 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170883&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 4 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170882&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 5 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170881&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 6 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170880&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 7 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170879&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 8 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 9 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 10 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
+#EXTINF:0 tvg-id="spotv1"  group-title="" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV MyTV
+https://url.ufc-nf.xyz/SPOTV1
+#EXTINF:0 tvg-id="spotv2"  group-title="" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 MyTV
+https://url.ufc-nf.xyz/SPOTV2
+
 #EXTINF:-1  group-title="" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today FPT
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD FPT
