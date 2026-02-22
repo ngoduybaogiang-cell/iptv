@@ -185,7 +185,8 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&exten
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 10 FHD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
 
-
+#EXTINF:0 tvg-id="hue"  group-title="" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Huế TV360
+http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.5:5000
 #EXTINF:0 tvg-id="hanoi1"  group-title="" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.223:5000
 #EXTINF:0 tvg-id="hanoi2"  group-title="" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội TV360
@@ -234,8 +235,6 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.94:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.88:5000
 #EXTINF:0 tvg-id="quangtri"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV HD | Quảng Trị TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.70:5000
-#EXTINF:0 tvg-id="hue"  group-title="" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Huế TV360
-http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.5:5000
 #EXTINF:0 tvg-id="danang1"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.93:5000
 #EXTINF:0 tvg-id="danang2"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng TV360
