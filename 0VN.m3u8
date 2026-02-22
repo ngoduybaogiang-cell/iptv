@@ -15,6 +15,8 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.99:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.100:5000
 #EXTINF:0 tvg-id="vinhlong3hd"  group-title="" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.29:5000
+#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 HD | Vĩnh Long FPT
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vinhlong5hd"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.70:5000
 
@@ -377,8 +379,6 @@ https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/44c1Yoz.png",TH Vĩnh Long 3 FPT
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/JWDsJxB.png",TH Vĩnh Long 4 FPT
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",TH Vĩnh Long 5 FPT
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FPT
