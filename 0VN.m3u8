@@ -133,6 +133,8 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.75:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.13:5000
 #EXTINF:0 tvg-id="htvkey"  group-title="" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.18:5000
+#EXTINF:0 tvg-id="anvienhd"  group-title="" tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5 B Channel HD TV360
+http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.61:5000
 #EXTINF:0 tvg-id="htvthethaohd"  group-title="" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.23:5000
 #EXTINF:0 tvg-id="htvccanhachd"  group-title="" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc HD TV360
@@ -277,16 +279,12 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.122:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.118:5000
 #EXTINF:0 tvg-id="dongnai1"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.96:5000
-#EXTINF:0 tvg-id="dongnai1"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai TV360
-http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.17:5000
 #EXTINF:0 tvg-id="dongnai2"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.75:5000
 #EXTINF:0 tvg-id="binhduong1"  group-title="" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.15:5000
 #EXTINF:0 tvg-id="binhduong1"  group-title="" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.16:5000
-#EXTINF:0 tvg-id="anvienhd"  group-title="" tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5 B Channel HD TV360
-http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.61:5000
 #EXTINF:0 tvg-id="vungtau"  group-title="" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | TP.HCM TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.92:5000
 #EXTINF:0 tvg-id="tayninh1"  group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 HD | Tây Ninh TV360
