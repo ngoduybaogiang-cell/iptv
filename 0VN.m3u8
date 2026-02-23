@@ -131,10 +131,10 @@ http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.72:5000
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.114:5000
 #EXTINF:0 tvg-id="htvcplushd"  group-title="" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.113:5000
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FPT
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+http://udp-fpt.doanvu.net:9955/udp/225.1.3.28:30120
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim FPT
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+http://udp-fpt.doanvu.net:9955/udp/225.1.3.68:30120
 #EXTINF:0 tvg-id="sctv2hd"  group-title="" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD TV360
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.34:5000
 #EXTINF:0 tvg-id="sctv6hd"  group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD TV360
@@ -420,6 +420,10 @@ https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ FPT
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FPT
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim FPT
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1 bk FPT
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 bk FPT
