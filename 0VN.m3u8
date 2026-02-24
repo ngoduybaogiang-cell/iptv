@@ -2,6 +2,252 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
+#EXTINF:0 tvg-id="vtv1hd" group-title="" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 MyTV
+http://113.175.203.139:8182/rtp/232.84.1.117:10254
+#EXTINF:0 tvg-id="vtv3hd" group-title="" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 MyTV
+http://113.175.203.139:8182/rtp/232.84.1.118:10260
+#EXTINF:0 tvg-id="htv7hd" group-title="" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 MyTV
+http://113.175.203.139:8182/rtp/232.84.1.223:9312
+#EXTINF:0 tvg-id="htv9hd" group-title="" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 MyTV
+http://113.175.203.139:8182/rtp/232.84.1.224:9318
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long MyTV
+http://113.175.203.139:8182/rtp/232.84.3.152:10882
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long MyTV
+http://113.175.203.139:8182/rtp/232.84.3.164:10888
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long MyTV
+http://113.175.203.139:8182/rtp/232.84.3.165:10900
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long MyTV
+http://113.175.203.139:8182/rtp/232.84.3.160:10912
+
+
+#EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
+http://113.175.203.139:8182/rtp/232.84.3.242:11374
+#EXTINF:0 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ MyTV
+http://113.175.203.139:8182/rtp/232.84.3.75:11602
+#EXTINF:0 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football MyTV
+http://113.175.203.139:8182/rtp/232.84.3.243:11380
+#EXTINF:0 tvg-id="onsportsnews" group-title="" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News MyTV
+http://113.175.203.139:8182/rtp/232.84.2.193:10942
+#EXTINF:0 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf MyTV
+http://113.175.203.139:8182/rtp/232.84.3.244:11386
+#EXTINF:0 tvg-id="onbibi" group-title="" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi MyTV
+http://113.175.203.139:8182/rtp/232.84.3.217:11224
+#EXTINF:0 tvg-id="oncine" group-title="" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine MyTV
+http://113.175.203.139:8182/rtp/232.84.3.72:11620
+#EXTINF:0 tvg-id="onechannel" group-title="" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel MyTV
+http://113.175.203.139:8182/rtp/232.84.3.76:11596
+#EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV MyTV
+http://113.175.203.139:8182/rtp/232.84.3.73:11614
+#EXTINF:0 tvg-id="onkids" group-title="" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids MyTV
+http://113.175.203.139:8182/rtp/232.84.3.41:11806
+#EXTINF:0 tvg-id="onlife" group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life MyTV
+http://113.175.203.139:8182/rtp/232.84.3.40:11812
+#EXTINF:0 tvg-id="onmovies" group-title="" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies MyTV
+http://113.175.203.139:8182/rtp/232.84.2.190:10924
+#EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music MyTV
+http://113.175.203.139:8182/rtp/232.84.3.70:11632
+#EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV MyTV
+http://113.175.203.139:8182/rtp/232.84.3.74:11608
+#EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt MyTV
+http://113.175.203.139:8182/rtp/232.84.3.77:11590
+#EXTINF:0 tvg-id="onstyle" group-title="" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV MyTV
+http://113.175.203.139:8182/rtp/232.84.3.71:11626
+#EXTINF:0 tvg-id="ontrending" group-title="" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV MyTV
+http://113.175.203.139:8182/rtp/232.84.3.69:11638
+#EXTINF:0 tvg-id="onvfamily" group-title="" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily MyTV
+http://113.175.203.139:8182/rtp/232.84.3.68:11644
+#EXTINF:0 tvg-id="onviedramas" group-title="" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas MyTV
+http://113.175.203.139:8182/rtp/232.84.3.218:11230
+#EXTINF:0 tvg-id="onviegiaitri" group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí MyTV
+http://113.175.203.139:8182/rtp/232.84.3.78:11584
+
+#EXTINF:0 tvg-id="htv1" group-title="" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.57:11710
+#EXTINF:0 tvg-id="htv2hd" group-title="" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel MyTV
+http://113.175.203.139:8182/rtp/232.84.2.182:9306
+#EXTINF:0 tvg-id="htv3" group-title="" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.56:11716
+#EXTINF:0 tvg-id="htvkey" group-title="" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys MyTV
+http://113.175.203.139:8182/rtp/232.84.3.55:11722
+#EXTINF:0 tvg-id="anvienhd" group-title="" tvg-logo="https://i.imgur.com/EI0mJRf.png",HTV5 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.199:11116
+#EXTINF:0 tvg-id="htvthethaohd" group-title="" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao MyTV
+http://113.175.203.139:8182/rtp/232.84.3.88:11524
+#EXTINF:0 tvg-id="htvccanhachd" group-title="" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc MyTV
+http://113.175.203.139:8182/rtp/232.84.3.54:11728
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống MyTV
+http://113.175.203.139:8182/rtp/232.84.3.53:11734
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình MyTV
+http://113.175.203.139:8182/rtp/232.84.3.52:11740
+#EXTINF:0 tvg-id="htvcphimhd" group-title="" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim MyTV
+http://113.175.203.139:8182/rtp/232.84.2.133:9594
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ MyTV
+http://113.175.203.139:8182/rtp/232.84.3.51:11746
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt MyTV
+http://113.175.203.139:8182/rtp/232.84.2.134:9600
+#EXTINF:0 tvg-id="htvcplushd" group-title="" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ MyTV
+http://113.175.203.139:8182/rtp/232.84.3.245:11392
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 MyTV
+http://113.175.203.139:8182/rtp/232.84.2.31:10594
+#EXTINF:0 tvg-id="vtv4hd" group-title="" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.106:10600
+#EXTINF:0 tvg-id="vietnamtoday" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today MyTV
+http://113.175.203.139:8182/rtp/232.84.1.234:10290
+#EXTINF:0 tvg-id="vtv5hd" group-title="" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 MyTV
+http://113.175.203.139:8182/rtp/232.84.2.33:10606
+#EXTINF:0 tvg-id="vtvcantho" group-title="" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ MyTV
+http://113.175.203.139:8182/rtp/232.84.1.119:10266
+#EXTINF:0 tvg-id="vtv7hd" group-title="" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 MyTV
+http://113.175.203.139:8182/rtp/232.84.2.202:10996
+#EXTINF:0 tvg-id="vtv8hd" group-title="" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.104:10612
+#EXTINF:0 tvg-id="vtv9hd" group-title="" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 MyTV
+http://113.175.203.139:8182/rtp/232.84.2.35:10618
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ MyTV
+http://113.175.203.139:8182/rtp/232.84.3.86:11542
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên MyTV
+http://113.175.203.139:8182/rtp/232.84.3.66:11656
+
+#EXTINF:0 tvg-id="thainguyen" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | Thái Nguyên MyTV
+http://113.175.203.139:8182/rtp/232.84.3.146:10774
+#EXTINF:0 tvg-id="phutho" group-title="" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ MyTV
+http://113.175.203.139:8182/rtp/232.84.3.148:10792
+#EXTINF:0 tvg-id="bacninh" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Bắc Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.3.100:11452
+#EXTINF:0 tvg-id="caobang" group-title="" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Cao Bằng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.202:11134
+#EXTINF:0 tvg-id="langson" group-title="" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn MyTV
+http://113.175.203.139:8182/rtp/232.84.3.203:11140
+#EXTINF:0 tvg-id="quangninh1" group-title="" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.1.248:10978
+#EXTINF:0 tvg-id="quangninh3" group-title="" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.1.249:10984
+#EXTINF:0 tvg-id="hanoi1" group-title="" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội MyTV
+http://113.175.203.139:8182/rtp/232.84.3.143:10738
+#EXTINF:0 tvg-id="hanoi2" group-title="" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội MyTV
+http://113.175.203.139:8182/rtp/232.84.3.137:10744
+#EXTINF:0 tvg-id="haiphong" group-title="" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.142:10780
+#EXTINF:0 tvg-id="haiphong3" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Hải Phòng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.83:11554
+#EXTINF:0 tvg-id="hungyen" group-title="" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Hưng Yên MyTV
+http://113.175.203.139:8182/rtp/232.84.3.110:10786
+#EXTINF:0 tvg-id="ninhbinh" group-title="" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình MyTV
+http://113.175.203.139:8182/rtp/232.84.3.89:11518
+#EXTINF:0 tvg-id="thanhhoa" group-title="" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Thanh Hóa MyTV
+http://113.175.203.139:8182/rtp/232.84.3.198:11110
+#EXTINF:0 tvg-id="nghean" group-title="" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An MyTV
+http://113.175.203.139:8182/rtp/232.84.2.198:10972
+#EXTINF:0 tvg-id="hatinh" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Hà Tĩnh MyTV
+http://113.175.203.139:8182/rtp/232.84.3.134:10768
+#EXTINF:0 tvg-id="quangtri" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | Quảng Trị MyTV
+http://113.175.203.139:8182/rtp/232.84.3.46:11776
+#EXTINF:0 tvg-id="quangngai1" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi MyTV
+http://113.175.203.139:8182/rtp/232.84.3.126:10798
+#EXTINF:0 tvg-id="quangngai2" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi MyTV
+http://113.175.203.139:8182/rtp/232.84.3.80:11572
+#EXTINF:0 tvg-id="daklak" group-title="" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk MyTV
+http://113.175.203.139:8182/rtp/232.84.3.99:11464
+#EXTINF:0 tvg-id="lamdong1" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.58:11704
+#EXTINF:0 tvg-id="lamdong2" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.87:11530
+#EXTINF:0 tvg-id="anvienhd" group-title="" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel MyTV
+http://113.175.203.139:8182/rtp/232.84.3.199:11116
+#EXTINF:0 tvg-id="dongnai1" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai MyTV
+http://113.175.203.139:8182/rtp/232.84.3.112:10762
+#EXTINF:0 tvg-id="tayninh" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | Tây Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.2.3:10314
+#EXTINF:0 tvg-id="dongthap1" group-title="" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp MyTV
+http://113.175.203.139:8182/rtp/232.84.3.235:11332
+#EXTINF:0 tvg-id="dongthap2" group-title="" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp MyTV
+http://113.175.203.139:8182/rtp/232.84.3.204:11146
+#EXTINF:0 tvg-id="angiang1" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang MyTV
+http://113.175.203.139:8182/rtp/232.84.3.161:10918
+#EXTINF:0 tvg-id="angiang2" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | An Giang MyTV
+http://113.175.203.139:8182/rtp/232.84.3.81:11566
+#EXTINF:0 tvg-id="cantho3" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3 MyTV
+http://113.175.203.139:8182/rtp/232.84.3.97:11470
+#EXTINF:0 tvg-id="quangninh1" group-title="" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.1.248:9462
+#EXTINF:0 tvg-id="quangninh3" group-title="" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh MyTV
+http://113.175.203.139:8182/rtp/232.84.1.249:9468
+#EXTINF:0 tvg-id="lamdong1" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng MyTV
+http://113.175.203.139:8182/rtp/232.84.3.98:11458
+
+
+#EXTINF:0 tvg-id="abcaustralia" group-title="" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia MyTV
+http://113.175.203.139:8182/rtp/232.84.3.125:10434
+#EXTINF:0 tvg-id="animalhd" group-title="" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet MyTV
+http://113.175.203.139:8182/rtp/232.84.3.61:11686
+#EXTINF:0 tvg-id="afnhd" group-title="" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network MyTV
+http://113.175.203.139:8182/rtp/232.84.2.129:9570
+#EXTINF:0 tvg-id="axnhd" group-title="" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN MyTV
+http://113.175.203.139:8182/rtp/232.84.3.121:10660
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies MyTV
+http://113.175.203.139:8182/rtp/232.84.3.65:11662
+#EXTINF:0 tvg-id="bbcearth" group-title="" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth MyTV
+http://113.175.203.139:8182/rtp/232.84.3.226:11278
+#EXTINF:0 tvg-id="bbclifestyle" group-title="" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle MyTV
+http://113.175.203.139:8182/rtp/232.84.3.225:11272
+#EXTINF:0 tvg-id="bbcworldnews" group-title="" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News MyTV
+http://113.175.203.139:8182/rtp/232.84.3.224:11266
+#EXTINF:0 tvg-id="bloomberg" group-title="" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg MyTV
+http://113.175.203.139:8182/rtp/232.84.3.157:10696
+#EXTINF:0 tvg-id="boxhits" group-title="" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits MyTV
+http://113.175.203.139:8182/rtp/232.84.1.77:8436
+#EXTINF:0 tvg-id="cartoonhd" group-title="" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network MyTV
+http://113.175.203.139:8182/rtp/232.84.3.62:11680
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World MyTV
+http://113.175.203.139:8182/rtp/232.84.3.64:11668
+#EXTINF:0 tvg-id="cinemaxhd" group-title="" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax MyTV
+http://113.175.203.139:8182/rtp/232.84.3.117:10654
+#EXTINF:0 tvg-id="cna" group-title="" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA MyTV
+http://113.175.203.139:8182/rtp/232.84.2.55:10540
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC MyTV
+http://113.175.203.139:8182/rtp/232.84.3.179:10488
+#EXTINF:0 tvg-id="cnn" group-title="" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN MyTV
+http://113.175.203.139:8182/rtp/232.84.3.153:10690
+#EXTINF:0 tvg-id="davinci" group-title="" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci MyTV
+http://113.175.203.139:8182/rtp/232.84.2.131:9582
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia MyTV
+http://113.175.203.139:8182/rtp/232.84.3.219:11236
+#EXTINF:0 tvg-id="discoveryhd" group-title="" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel MyTV
+http://113.175.203.139:8182/rtp/232.84.2.53:10528
+#EXTINF:0 tvg-id="dmax" group-title="" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax MyTV
+http://113.175.203.139:8182/rtp/232.84.1.1:7980
+#EXTINF:0 tvg-id="dreamworks" group-title="" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks MyTV
+http://113.175.203.139:8182/rtp/232.84.3.227:11284
+#EXTINF:0 tvg-id="dw" group-title="" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW MyTV
+http://113.175.203.139:8182/rtp/232.84.2.233:10416
+#EXTINF:0 tvg-id="fashionhd" group-title="" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV MyTV
+http://113.175.203.139:8182/rtp/232.84.2.52:10522
+#EXTINF:0 tvg-id="france24eng" group-title="" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) MyTV
+http://113.175.203.139:8182/rtp/232.84.2.151:10726
+#EXTINF:0 tvg-id="hbohd" group-title="" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO MyTV
+http://113.175.203.139:8182/rtp/232.84.2.138:10648
+#EXTINF:0 tvg-id="hollywood" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/Hollywood_Classics.png",Hollywood Classics MyTV
+http://113.175.203.139:8182/rtp/232.84.1.58:8328
+#EXTINF:0 tvg-id="musicbox" group-title="" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box MyTV
+http://113.175.203.139:8182/rtp/232.84.1.13:8052
+#EXTINF:0 tvg-id="nhkworld" group-title="" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan MyTV
+http://113.175.203.139:8182/rtp/232.84.1.72:8406
+#EXTINF:0 tvg-id="outdoorhd" group-title="" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor MyTV
+http://113.175.203.139:8182/rtp/232.84.1.107:10218
+#EXTINF:0 tvg-id="spotv1" group-title="" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV MyTV
+http://113.175.203.139:8182/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv2" group-title="" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 MyTV
+http://113.175.203.139:8182/rtp/232.84.2.142:10672
+#EXTINF:0 tvg-id="tlchd" group-title="" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC MyTV
+http://113.175.203.139:8182/rtp/232.84.3.156:10708
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE MyTV
+http://113.175.203.139:8182/rtp/232.84.3.205:11152
+#EXTINF:0 tvg-id="warnertvhd" group-title="" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV MyTV
+http://113.175.203.139:8182/rtp/232.84.3.63:11674
+#EXTINF:0 tvg-id="woman" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/WOMAN.png",Woman MyTV
+http://113.175.203.139:8182/rtp/232.84.1.59:8334
+
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FPT
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FPT
@@ -237,6 +483,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/qPZeGPa.png",TH Tuyên Quang FPT
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+
 
 
 
