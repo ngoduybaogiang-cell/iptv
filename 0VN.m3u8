@@ -120,7 +120,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 xui-id="326" tvg-id="sctv4hd" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV4
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv6hd" group-title="" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/FIM360_logo.png", SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="" tvg-logo="https://user-images.githubusercontent.com/68333160/90627173-e3c23d80-e245-11ea-8d49-3da17400f413.png", SCTV6
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv6
 #EXTINF:-1 xui-id="329" tvg-id="sctv7hd" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV7
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
@@ -557,6 +557,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/qPZeGPa.png",TH Tuyên Quang FPT b
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+
 
 
 
