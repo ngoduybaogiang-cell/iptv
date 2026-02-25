@@ -112,8 +112,7 @@ http://dinhdong.ddns.net:13579/udp/225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FPT
 http://dinhdong.ddns.net:13579/udp/225.1.3.9:30120
 
-#EXTINF:-1 xui-id="345" tvg-id="sctvhdpth" tvg-name="SCTV Phim Tổng Hợp" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_Phim_T%253Fng_h%253Fp_2020_b%253Fn_2.png", SCTV Phim Tong Hop
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+
 #EXTINF:-1 xui-id="323" tvg-id="sctv1hd" tvg-name="SCTV1" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV1_logo_2022.png", SCTV1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 #EXTINF:-1 xui-id="325" tvg-id="sctv3hd" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV3_See_TV_19-01-2023.png", SCTV3
@@ -152,6 +151,8 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 xui-id="344" tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV22_SSport_1.png", SCTV22
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
+#EXTINF:-1 xui-id="345" tvg-id="sctvhdpth" tvg-name="SCTV Phim Tổng Hợp" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_Phim_T%253Fng_h%253Fp_2020_b%253Fn_2.png", SCTV Phim Tong Hop
+https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
 
 #EXTINF:-1  group-title="" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png",TH Thừa Thiên Huế FPT b
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
@@ -557,6 +558,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/qPZeGPa.png",TH Tuyên Quang FPT b
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+
 
 
 
