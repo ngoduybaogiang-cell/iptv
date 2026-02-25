@@ -210,6 +210,66 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 10 FHD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://dinhdong.ddns.net:13579/udp/225.1.1.2:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://dinhdong.ddns.net:13579/udp/225.1.4.199:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://dinhdong.ddns.net:13579/udp/225.1.4.200:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://dinhdong.ddns.net:13579/udp/225.1.2.243:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.10:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.12:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.15:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.27:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.28:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.30:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.31:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.32:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.33:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.35:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.37:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.38:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.68:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.69:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.70:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.71:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.72:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.92:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.93:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.95:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.96:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.97:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.100:30120
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://dinhdong.ddns.net:13579/udp/225.1.1.101:30120
 
 #EXTINF:0 tvg-id="animalhd" group-title="" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet FPT
 http://dinhdong.ddns.net:13579/udp/225.1.1.231:30120
@@ -453,6 +513,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/qPZeGPa.png",TH Tuyên Quang FPT b
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+
 
 
 
