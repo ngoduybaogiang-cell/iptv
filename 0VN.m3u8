@@ -24,6 +24,10 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 #EXTINF:0 tvg-id="sctv6hd" group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FPT
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 xui-id="323" tvg-id="sctv1hd" tvg-name="SCTV1" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV1_logo_2022.png", SCTV1
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+#EXTINF:-1 xui-id="326" tvg-id="sctv4hd" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV4
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí TV360 b
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -65,46 +69,6 @@ https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF TV360 b
 https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
-#EXTINF:-1 xui-id="323" tvg-id="sctv1hd" tvg-name="SCTV1" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV1_logo_2022.png", SCTV1
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 xui-id="325" tvg-id="sctv3hd" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV3_See_TV_19-01-2023.png", SCTV3
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
-#EXTINF:-1 xui-id="326" tvg-id="sctv4hd" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV4
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv6hd" group-title="" tvg-logo="https://user-images.githubusercontent.com/68333160/90627173-e3c23d80-e245-11ea-8d49-3da17400f413.png", SCTV6
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv6
-#EXTINF:-1 xui-id="329" tvg-id="sctv7hd" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV7
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
-#EXTINF:-1 xui-id="330" tvg-id="sctv8hd" tvg-name="SCTV8" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/VITV_logo.png", SCTV8
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV9
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 xui-id="333" tvg-id="sctv11hd" tvg-name="SCTV11" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV11_logo_2022.png", SCTV11
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
-#EXTINF:-1 xui-id="334" tvg-id="sctv12hd" tvg-name="SCTV12" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV12_logo_2022.png", SCTV12
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
-#EXTINF:-1 xui-id="335" tvg-id="sctv13hd" tvg-name="SCTV13" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV13_logo_2022.png", SCTV13
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
-#EXTINF:-1 xui-id="336" tvg-id="sctv14hd" tvg-name="SCTV14" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/K%253Fnh_Phim_Vi%253Ft_SCTV14_logo.png", SCTV14
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
-#EXTINF:-1 xui-id="337" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://user-images.githubusercontent.com/68333160/90627220-ed4ba580-e245-11ea-9269-d479eddf3838.png", SCTV15
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
-#EXTINF:-1 xui-id="338" tvg-id="sctv16hd" tvg-name="SCTV16" tvg-logo="https://user-images.githubusercontent.com/68333160/90627228-ee7cd280-e245-11ea-8fd0-19f6b7a7598c.png", SCTV16
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
-#EXTINF:-1 xui-id="339" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://user-images.githubusercontent.com/68333160/90627232-efadff80-e245-11ea-81c8-285e95bb44d4.png", SCTV17
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
-#EXTINF:-1 xui-id="340" tvg-id="sctv18hd" tvg-name="SCTV18" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV18_logo_2020.png", SCTV18
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
-#EXTINF:-1 xui-id="341" tvg-id="sctv19hd" tvg-name="SCTV19" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV19
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 xui-id="342" tvg-id="sctv20hd" tvg-name="SCTV20" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV20_logo_2019.png", SCTV20
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-#EXTINF:-1 xui-id="343" tvg-id="sctv21hd" tvg-name="SCTV21" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Vi%253Ft_Nam_k%253F_%253Fc_logo_m%253Fn_h%253Fnh.png", SCTV21
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 xui-id="344" tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV22_SSport_1.png", SCTV22
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
-#EXTINF:-1 xui-id="345" tvg-id="sctvhdpth" tvg-name="SCTV Phim Tổng Hợp" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_Phim_T%253Fng_h%253Fp_2020_b%253Fn_2.png", SCTV Phim Tong Hop
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FPT
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
@@ -282,6 +246,7 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="", Bóng Đá Canal + Live 10 FHD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
+
 
 
 
