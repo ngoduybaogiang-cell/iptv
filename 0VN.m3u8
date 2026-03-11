@@ -272,13 +272,13 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=791014&extens
 #EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="NowHK Sports 3 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="",Bóng Đá TBN - NowHK Sports 3 HD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=791013&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="" tvg-name="" tvg-id="ElevenSports1.pl", Bóng Đá Ý, Pháp - Eleven 1 PL Play+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="" tvg-name="" tvg-id="ElevenSports1.pl", Bóng Đá Ý Pháp - Eleven 1 PL Play+
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="" tvg-name="" tvg-id="ElevenSports2.pl", Bóng Đá Ý, Pháp - Eleven 2 PL Play+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="" tvg-name="" tvg-id="ElevenSports2.pl", Bóng Đá Ý Pháp - Eleven 2 PL Play+
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="" tvg-name="" tvg-id="ElevenSports3.pl", Bóng Đá Ý, Pháp - Eleven 3 PL Play+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="" tvg-name="" tvg-id="ElevenSports3.pl", Bóng Đá Ý Pháp - Eleven 3 PL Play+
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="" tvg-name="" tvg-id="ElevenSports4.pl", Bóng Đá Ý, Pháp - Eleven 4 PL Play+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="" tvg-name="" tvg-id="ElevenSports4.pl", Bóng Đá Ý Pháp - Eleven 4 PL Play+
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
 
 #EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="Bóng Đá Ý - Ziggo Sport 1 ¹⁰⁸⁰ᵖ " tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="",Bóng Đá Ý - Ziggo Sport 1
@@ -372,6 +372,7 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537956&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537955&extension=ts
 #EXTINF:0 CUID="868939" tvg-name="TH: MONO MAX PPV 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png" group-title="",TH: MONO MAX PPV 15
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537954&extension=ts
+
 
 
 
