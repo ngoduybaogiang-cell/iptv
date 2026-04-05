@@ -96,8 +96,10 @@ https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="htv3" group-title="" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 FPT
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV3
-#EXTINF:0 tvg-id="htvkey" group-title="" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys FPT
+#EXTINF:0 tvg-id="htv4" group-title="" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4 FPT
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_Keys
+#EXTINF:0 tvg-id="anvienhd" group-title="" tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5 B Channel FPT
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:0 tvg-id="htvthethaohd" group-title="" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao FPT
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="htvccanhachd" group-title="" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc FPT
