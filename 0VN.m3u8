@@ -61,16 +61,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360 b
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
-#EXTINF:-1 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
-#EXTINF:-1 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 tvg-id="onsportsnews" group-title="" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
-#EXTINF:-1 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FPT
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
