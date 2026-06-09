@@ -41,14 +41,11 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="sctv2hd" group-title="" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2
+#EXTINF:0 tvg-id="sctv2hd" group-title="" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 Today TV
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
-#EXTINF:0 tvg-id="sctv6hd" group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FPT
+#EXTINF:0 tvg-id="sctv6hd" group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:-1 xui-id="323" tvg-id="sctv1hd" tvg-name="SCTV1" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV1_logo_2022.png", SCTV1
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 xui-id="326" tvg-id="sctv4hd" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV4
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="htv4",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
