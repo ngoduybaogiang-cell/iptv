@@ -47,7 +47,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="htv4",HTV4
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
@@ -57,7 +57,7 @@ https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/jeunb3Y.png" tvg-id="htv5",HTV5
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
