@@ -93,6 +93,11 @@ http://vnptktv1.duckdns.org:3468/udp/232.84.1.210:9234
 #EXTINF:0 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
 http://vnptktv1.duckdns.org:3468/udp/232.84.2.246:10876
 
+#EXTINF:0 tvg-id="spotv1" group-title="" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 10Mbps)
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.49:11758
+#EXTINF:0 tvg-id="spotv2" group-title="" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://vnptktv1.duckdns.org:3468/udp/232.84.2.142:10672
+
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2
