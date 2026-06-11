@@ -86,36 +86,6 @@ http://vnptktv1.duckdns.org:3468/udp/232.84.3.68:11644
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.218:11230
 #EXTINF:0 tvg-id="onviegiaitri" group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.78:11584
-#EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.208:9222
-#EXTINF:0 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.220:9294
-#EXTINF:0 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.138:8802
-#EXTINF:0 tvg-id="onbibi" group-title="" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.206:9210
-#EXTINF:0 tvg-id="oncine" group-title="" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.205:9204
-#EXTINF:0 tvg-id="onechannel" group-title="" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.193:9132
-#EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-http://vnptktv1.duckdns.org:3468/udp/232.84.2.191:10930
-#EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-http://vnptktv1.duckdns.org:3468/udp/232.84.2.192:10936
-#EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.26:8130
-#EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.168:8982
-#EXTINF:0 tvg-id="onstyle" group-title="" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.244:9438
-#EXTINF:0 tvg-id="ontrending" group-title="" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.217:9276
-#EXTINF:0 tvg-id="onvfamily" group-title="" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.245:10344
-#EXTINF:0 tvg-id="onviedramas" group-title="" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.169:8988
-#EXTINF:0 tvg-id="onviegiaitri" group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-http://vnptktv1.duckdns.org:3468/udp/232.84.1.143:8832
 #EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (HD 8Mbps)
 http://vnptktv1.duckdns.org:3468/udp/232.84.1.207:9216
 #EXTINF:0 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (HD 8Mbps)
