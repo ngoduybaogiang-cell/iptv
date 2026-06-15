@@ -2,6 +2,19 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.152:10882
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.164:10888
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.165:10900
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.160:10912
+#EXTINF:0 tvg-id="htv7hd" group-title="" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.1.223:9312
+#EXTINF:0 tvg-id="htv9hd" group-title="" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.1.224:9318
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="" tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="" tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
