@@ -48,23 +48,23 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí TV360 b
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:0 tvg-id="onmovies" group-title="" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel TV360 b
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine TV360 b
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi TV360 b
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TVTV360
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV TV360 b
+#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=185
@@ -76,7 +76,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:0 tvg-id="onlife" group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360 b
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.242:11374
