@@ -283,6 +283,8 @@ http://vnptktv1.duckdns.org:3468/udp/232.84.3.164:10888
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.165:10900
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.160:10912
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 | Vĩnh Long MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.21:11926
 #EXTINF:0 tvg-id="htv7hd" group-title="" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.1.223:9312
 #EXTINF:0 tvg-id="htv9hd" group-title="" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 MyTV
