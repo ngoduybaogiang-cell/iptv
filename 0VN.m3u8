@@ -78,7 +78,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360 b
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-
+#EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.242:11374
+#EXTINF:0 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.75:11602
+#EXTINF:0 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.243:11380
+#EXTINF:0 tvg-id="onsportsnews" group-title="" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.2.193:10942
+#EXTINF:0 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf MyTV
+http://vnptktv1.duckdns.org:3468/udp/232.84.3.244:11386
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
@@ -308,7 +317,7 @@ http://vnptktv1.duckdns.org:3468/udp/232.84.1.234:10290
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.127:10816
 #EXTINF:0 tvg-id="antvhd" group-title="" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.1.212:9246
-##EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
+#EXTINF:0 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.242:11374
 #EXTINF:0 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ MyTV
 http://vnptktv1.duckdns.org:3468/udp/232.84.3.75:11602
