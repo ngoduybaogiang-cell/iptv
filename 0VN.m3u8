@@ -26,7 +26,7 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="sctv2hd" group-title="" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 Today TV
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
-#EXTINF:0 tvg-id="sctv6hd" group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+#EXTINF:0 tvg-id="sctv6hd" group-title="" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FPT
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -47,6 +47,76 @@ https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:0 tvg-id="onmovies" group-title="" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TVTV360
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:0 tvg-id="ontrending" group-title="" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:0 tvg-id="onviedramas" group-title="" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:0 tvg-id="onvfamily" group-title="" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:0 tvg-id="onlife" group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life TV360
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360 b
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS TV360 b
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#EXTINF:-1 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ TV360 b
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTINF:-1 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL TV360 b
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+#EXTINF:-1 tvg-id="onsportsnews" group-title="" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS TV360 b
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:-1 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF TV360 b
+https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="htvcdulichhd",HTVC Du Lịch và Cuộc Sống
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="htvcgiadinhhd",HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="htvcphimhd",HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="htvcphunuhd",HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="htvcthuanviet",HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 xui-id="345" tvg-id="sctvhdpth" group-title="" tvg-name="SCTV Phim Tổng Hợp" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_Phim_T%253Fng_h%253Fp_2020_b%253Fn_2.png", SCTV Phim Tong Hop
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
@@ -91,72 +161,6 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 xui-id="344" tvg-id="sctv22hd" group-title="" tvg-name="SCTV22" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV22_SSport_1.png", SCTV22
 https://hoiquan.dpdns.org/VTVGo/?sctv22
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:0 tvg-id="onmovies" group-title="" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TVTV360
-https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:0 tvg-id="ontrending" group-title="" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:0 tvg-id="onviedramas" group-title="" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:0 tvg-id="onvfamily" group-title="" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:0 tvg-id="onlife" group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life TV360
-https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids TV360 b
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="onsports" group-title="" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
-#EXTINF:-1 tvg-id="onsportsplus" group-title="" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
-#EXTINF:-1 tvg-id="onfootball" group-title="" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 tvg-id="onsportsnews" group-title="" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
-#EXTINF:-1 tvg-id="ongolf" group-title="" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF TV360 b
-https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="htvcdulichhd",HTVC Du Lịch và Cuộc Sống
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="htvcgiadinhhd",HTVC Gia Đình
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="htvcphimhd",HTVC Phim
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="htvcphunuhd",HTVC Phụ Nữ
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="htvcthuanviet",HTVC Thuần Việt
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC Plus
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/q5MBibm.png",Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
