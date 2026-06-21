@@ -159,6 +159,37 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
+#EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+#EXTINF:0 tvg-id="onmovies" group-title="" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+#EXTINF:0 tvg-id="oninfotv" group-title="" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+#EXTINF:0 tvg-id="ono2tv" group-title="" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+#EXTINF:0 tvg-id="onmusic" group-title="" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+#EXTINF:0 tvg-id="ontrending" group-title="" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+#EXTINF:0 tvg-id="onviedramas" group-title="" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas 
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
+#EXTINF:0 tvg-id="onvfamily" group-title="" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+#EXTINF:0 tvg-id="onlife" group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids 
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+
 #EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/q5MBibm.png",Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
