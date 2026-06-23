@@ -48,6 +48,9 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí b
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:0 tvg-id="onphimviet" group-title="" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
