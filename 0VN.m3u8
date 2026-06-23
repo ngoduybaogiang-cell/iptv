@@ -82,13 +82,13 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 xui-id="345" tvg-id="sctvhdpth" group-title="" tvg-name="SCTV Phim Tổng Hợp" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_Phim_T%253Fng_h%253Fp_2020_b%253Fn_2.png", SCTV Phim Tong Hop
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 xui-id="323" tvg-id="sctv1hd" group-title="" tvg-name="SCTV1" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV1_logo_2022.png", SCTV1
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
 #EXTINF:-1 xui-id="324" tvg-id="sctv2hd" group-title="" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TodayTV_2017.png", SCTV2
-https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
 #EXTINF:-1 xui-id="325" tvg-id="sctv3hd" group-title="" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV3_See_TV_19-01-2023.png", SCTV3
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca
 #EXTINF:-1 xui-id="326" tvg-id="sctv4hd" group-title="" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV4
-https://hoiquan.dpdns.org/VTVGo/?sctv4
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
 #EXTINF:-1 tvg-id="sctv6hd" group-title="" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/FIM360_logo.png", SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 xui-id="329" tvg-id="sctv7hd" group-title="" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/SCTV_logo_2022.png", SCTV7
