@@ -36,7 +36,7 @@ https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
