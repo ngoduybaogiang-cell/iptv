@@ -62,31 +62,31 @@ https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",VTV10
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1 FPT
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2 FPT
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3 FPT
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4 FPT
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5 FPT
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc FPT
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="htvcdulichhd",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="htvcdulichhd",HTVC Du Lịch và Cuộc Sống FPT
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="htvcgiadinhhd",HTVC Gia Đình
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="htvcgiadinhhd",HTVC Gia Đình FPT
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="htvcphimhd",HTVC Phim
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="htvcphimhd",HTVC Phim FPT
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="htvcphunuhd",HTVC Phụ Nữ
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="htvcphunuhd",HTVC Phụ Nữ FPT
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="htvcthuanviet",HTVC Thuần Việt
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="htvcthuanviet",HTVC Thuần Việt FPT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC Plus
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC Plus FPT
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao FPT
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
@@ -120,6 +120,31 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="htv1",HTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/Yc3cmAi.png" tvg-id="htv2",HTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="htv3",HTV3
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_HTV4.png/960px-Logo_HTV4.png" tvg-id="htv4",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-id="htv5",HTV5
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="htvccanhachd",HTVC Ca Nhạc
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="htvcdulichhd",HTVC Du Lịch và Cuộc Sống
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="htvcgiadinhhd",HTVC Gia Đình
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="htvcphimhd",HTVC Phim
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="htvcphunuhd",HTVC Phụ Nữ
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="htvcthuanviet",HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC Plus
+https://freem3u.xyz/api/live/play.m3u8?vid=132
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="htvthethaohd",HTV Thể Thao
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 https://hoiquan.dpdns.org/VTVGo/?sctv1
